@@ -34,26 +34,40 @@ section{
     font-weight: 700;
 }
 .dream-area{
-    background-image: url("images/11.jpg");
+    background-image: url("images/13.jpg");
     background-repeat: no-repeat;
     background-position: right;
 }
 
 .single-experience{
     box-shadow: 10px 10px 40px gray;
-    height: 80%;
+    height: 60%;
+    background-color: white;
 }
 .experience-area{
     background-image: url("images/12.jpg");
+    background-repeat: no-repeat
 }
+#full-stuck{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(250, 126, 77), rgb(255, 47, 10));
+    border-image-slice: 1;
 
- #full-stuck{
-     border-left: 7px solid;
-     border-image: linear-gradient(lightsalmon,tomato);
- }   border-image-slice:1;
+   
+    
 
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+  
     
     
 
-
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
 
