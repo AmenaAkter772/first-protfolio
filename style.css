@@ -1,0 +1,59 @@
+h1{
+    margin: 0px;
+    font-size: 50px;
+}
+.orange-light{
+    color: rgb(253, 195, 5);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/8.jpg");
+    background-repeat: no-repeat;
+    
+    
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(230, 113, 67), rgb(243, 38, 2));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url("images/11.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+}
+.experience-area{
+    background-image: url("images/12.jpg");
+}
+
+ #full-stuck{
+     border-left: 7px solid;
+     border-image: linear-gradient(lightsalmon,tomato);
+ }   border-image-slice:1;
+
+    
+    
+
+
+
